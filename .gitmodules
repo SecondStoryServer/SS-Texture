@@ -1,0 +1,3 @@
+[submodule "SS-Texture-GitClient"]
+	path = SS-Texture-GitClient
+	url = https://github.com/SecondStoryServer/SS-Texture-GitClient
