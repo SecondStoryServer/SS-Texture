@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "overrides": [
+        { "predicate": { "pulling": 1 }, "model": "item/bow_pulling_0/0" },
+        { "predicate": {"pulling": 1,"pull": 0.65 }, "model": "item/bow_pulling_1/0" },
+        { "predicate": {"pulling": 1,"pull": 0.9 }, "model": "item/bow_pulling_2/0"},
+
+        { "predicate": { "custom_model_data": 1 }, "model": "item/bow/1" },
+        { "predicate": { "pulling": 1 ,"custom_model_data": 1 }, "model": "item/bow_pulling_0/1" },
+        { "predicate": {"pulling": 1,"pull": 0.65, "custom_model_data": 1}, "model": "item/bow_pulling_1/1" },
+        { "predicate": {"pulling": 1,"pull": 0.9, "custom_model_data": 1}, "model": "item/bow_pulling_2/1"},
+
+        { "predicate": { "custom_model_data": 2 }, "model": "item/bow/2" },
+        { "predicate": { "pulling": 1 ,"custom_model_data": 2 }, "model": "item/bow_pulling_0/2" },
+        { "predicate": {"pulling": 1,"pull": 0.65, "custom_model_data": 2 }, "model": "item/bow_pulling_1/2" },
+        { "predicate": {"pulling": 1,"pull": 0.9, "custom_model_data": 2 }, "model": "item/bow_pulling_2/2"},
+
+        { "predicate": { "custom_model_data": 3 }, "model": "item/bow/3" },
+        { "predicate": { "pulling": 1 ,"custom_model_data": 3 }, "model": "item/bow_pulling_0/3" },
+        { "predicate": {"pulling": 1,"pull": 0.65, "custom_model_data": 3 }, "model": "item/bow_pulling_1/3" },
+        { "predicate": {"pulling": 1,"pull": 0.9, "custom_model_data": 3 }, "model": "item/bow_pulling_2/3"},
+
+        { "predicate": { "custom_model_data": 4}, "model": "item/bow/4" },
+        { "predicate": { "pulling": 1 , "custom_model_data": 4 }, "model": "item/bow_pulling_0/4" },
+        { "predicate": {"pulling": 1,"pull": 0.65, "custom_model_data": 4 }, "model": "item/bow_pulling_1/4" },
+        { "predicate": {"pulling": 1,"pull": 0.9, "custom_model_data": 4 }, "model": "item/bow_pulling_2/4"},
+
+        { "predicate": { "custom_model_data": 5 }, "model": "item/bow/5" },
+        { "predicate": { "pulling": 1 , "custom_model_data": 5 }, "model": "item/bow_pulling_0/5" },
+        { "predicate": {"pulling": 1,"pull": 0.65, "custom_model_data": 5 }, "model": "item/bow_pulling_1/5" },
+        { "predicate": {"pulling": 1,"pull": 0.9, "custom_model_data": 5 }, "model": "item/bow_pulling_2/5"}
+
+    ]
+}
