@@ -1,0 +1,8 @@
+*
+*/
+!minimum/
+!SS-CustomIcons/
+!SS-Texture-GitClient/
+!.gitignore
+!.gitmodules
+!git.jar
