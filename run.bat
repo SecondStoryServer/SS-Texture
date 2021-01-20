@@ -1,8 +1,10 @@
 @echo off
 
-if exist ".clone_tmp" (
-	copy .clone_tmp . /Y
-	rmdir .clone_tmp /s /q
+set DIR=".clone_tmp"
+
+if exist %DIR% (
+	xcopy %DIR% . /s /Y /H /Q
+	rmdir %DIR% /s /q
 )
 java -jar git.jar
 pause
