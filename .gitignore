@@ -7,3 +7,5 @@
 !.gitignore
 !.gitmodules
 !git.jar
+!run.bat
+!run

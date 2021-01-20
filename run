@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+DIR=".clone_tmp"
+
+if [ -d $DIR ];then
+  cp -r $DIR/ .
+  rm -rf $DIR
+fi
+
+java -jar git.jar
