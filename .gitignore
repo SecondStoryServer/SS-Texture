@@ -2,6 +2,7 @@
 */
 !minimum/
 !SS-CustomIcons/
+!SS-CustomIcons/**
 !SS-Texture-GitClient/
 !.gitignore
 !.gitmodules
