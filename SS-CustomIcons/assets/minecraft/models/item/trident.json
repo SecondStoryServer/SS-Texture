@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/trident"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/trident/101" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/trident/102" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/trident/103" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/trident/104" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/trident/105" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/trident/106" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/trident/107" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/trident/108" }
+	]
+}

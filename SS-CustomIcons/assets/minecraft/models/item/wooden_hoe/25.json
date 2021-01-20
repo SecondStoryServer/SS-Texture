@@ -1,0 +1,29 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_hoe/25"
+	},
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 80, 90, 0 ],
+            "translation": [ 0, 4, 3 ],
+            "scale": [ 1.4, 2.0, 1.4 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 80, -90, 0 ],
+            "translation": [ 0, 4, 3 ],
+            "scale": [ 1.4, 2.0, 1.4 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 30, 90, 25 ],
+            "translation": [ 2, 5, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 30, -90, -25 ],
+            "translation": [ 2, 5, 0],
+            "scale": [ 1, 1, 1 ]
+        }
+    }
+}
+

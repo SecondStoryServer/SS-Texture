@@ -1,0 +1,31 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2}, "model": "item/wooden_shovel/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/wooden_shovel/3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/wooden_shovel/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/wooden_shovel/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/wooden_shovel/6" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/wooden_shovel/7" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/wooden_shovel/8" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/wooden_shovel/11" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/wooden_shovel/12" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/wooden_shovel/13" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/wooden_shovel/14" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/wooden_shovel/15" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/wooden_shovel/16" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/wooden_shovel/17" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/wooden_shovel/18" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/wooden_shovel/21" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/wooden_shovel/22" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/wooden_shovel/23" },
+		{ "predicate": { "custom_model_data": 24}, "model": "item/wooden_shovel/24" },
+		{ "predicate": { "custom_model_data": 25}, "model": "item/wooden_shovel/25" },
+		{ "predicate": { "custom_model_data": 26}, "model": "item/wooden_shovel/26" },
+		{ "predicate": { "custom_model_data": 27}, "model": "item/wooden_shovel/27" },
+		{ "predicate": { "custom_model_data": 28}, "model": "item/wooden_shovel/28" }
+	]
+}

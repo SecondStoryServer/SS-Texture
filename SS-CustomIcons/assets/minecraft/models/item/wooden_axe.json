@@ -1,0 +1,23 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2}, "model": "item/wooden_axe/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/wooden_axe/3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/wooden_axe/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/wooden_axe/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/wooden_axe/6" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/wooden_axe/7" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/wooden_axe/8" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/wooden_axe/11" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/wooden_axe/12" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/wooden_axe/13" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/wooden_axe/14" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/wooden_axe/15" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/wooden_axe/16" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/wooden_axe/17" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/wooden_axe/18" }
+	]
+}
