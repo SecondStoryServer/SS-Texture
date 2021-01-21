@@ -27,13 +27,21 @@
 		{ "predicate": { "custom_model_data": 26}, "model": "item/wooden_sword/26" },
 		{ "predicate": { "custom_model_data": 27}, "model": "item/wooden_sword/27" },
 		{ "predicate": { "custom_model_data": 28}, "model": "item/wooden_sword/28" },
-		{ "predicate": { "custom_model_data": 31}, "model": "item/wooden_sword/31"},
+		{ "predicate": { "custom_model_data": 31}, "model": "item/wooden_sword/31" },
 		{ "predicate": { "custom_model_data": 32}, "model": "item/wooden_sword/32" },
 		{ "predicate": { "custom_model_data": 33}, "model": "item/wooden_sword/33" },
 		{ "predicate": { "custom_model_data": 34}, "model": "item/wooden_sword/34" },
 		{ "predicate": { "custom_model_data": 35}, "model": "item/wooden_sword/35" },
 		{ "predicate": { "custom_model_data": 36}, "model": "item/wooden_sword/36" },
 		{ "predicate": { "custom_model_data": 37}, "model": "item/wooden_sword/37" },
-		{ "predicate": { "custom_model_data": 38}, "model": "item/wooden_sword/38" }
+		{ "predicate": { "custom_model_data": 38}, "model": "item/wooden_sword/38" },
+		{ "predicate": { "custom_model_data": 41}, "model": "item/wooden_sword/41" },
+		{ "predicate": { "custom_model_data": 42}, "model": "item/wooden_sword/42" },
+		{ "predicate": { "custom_model_data": 43}, "model": "item/wooden_sword/43" },
+		{ "predicate": { "custom_model_data": 44}, "model": "item/wooden_sword/44" },
+		{ "predicate": { "custom_model_data": 45}, "model": "item/wooden_sword/45" },
+		{ "predicate": { "custom_model_data": 46}, "model": "item/wooden_sword/46" },
+		{ "predicate": { "custom_model_data": 47}, "model": "item/wooden_sword/47" },
+		{ "predicate": { "custom_model_data": 48}, "model": "item/wooden_sword/48" }
 	]
 }
