@@ -2,6 +2,18 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/wooden_hoe/15"
-	}
+	},
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 220, 90, 0 ],
+            "translation": [ 0, -8, 2 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 220, -90, 0 ],
+            "translation": [ 0, -8, 2 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
 }
 
