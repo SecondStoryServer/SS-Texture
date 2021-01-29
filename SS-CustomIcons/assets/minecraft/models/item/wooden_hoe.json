@@ -26,6 +26,14 @@
 		{ "predicate": { "custom_model_data": 25}, "model": "item/wooden_hoe/25" },
 		{ "predicate": { "custom_model_data": 26}, "model": "item/wooden_hoe/26" },
 		{ "predicate": { "custom_model_data": 27}, "model": "item/wooden_hoe/27" },
-		{ "predicate": { "custom_model_data": 28}, "model": "item/wooden_hoe/28" }
+		{ "predicate": { "custom_model_data": 28}, "model": "item/wooden_hoe/28" },
+		{ "predicate": { "custom_model_data": 31}, "model": "item/wooden_hoe/31" },
+		{ "predicate": { "custom_model_data": 32}, "model": "item/wooden_hoe/32" },
+		{ "predicate": { "custom_model_data": 33}, "model": "item/wooden_hoe/33" },
+		{ "predicate": { "custom_model_data": 34}, "model": "item/wooden_hoe/34" },
+		{ "predicate": { "custom_model_data": 35}, "model": "item/wooden_hoe/35" },
+		{ "predicate": { "custom_model_data": 36}, "model": "item/wooden_hoe/36" },
+		{ "predicate": { "custom_model_data": 37}, "model": "item/wooden_hoe/37" },
+		{ "predicate": { "custom_model_data": 38}, "model": "item/wooden_hoe/38" }
 	]
 }
