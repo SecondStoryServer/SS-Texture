@@ -6,6 +6,10 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/clay_ball/1" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/clay_ball/2" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/clay_ball/3" }
+		{ "predicate": { "custom_model_data": 3}, "model": "item/clay_ball/3" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/clay_ball/11" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/clay_ball/12" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/clay_ball/13" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/clay_ball/14" }
 	]
 }
