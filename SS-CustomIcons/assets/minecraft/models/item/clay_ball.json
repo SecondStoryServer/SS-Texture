@@ -9,6 +9,7 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/clay_ball/3" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/clay_ball/4" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/clay_ball/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/clay_ball/6" },
 		{ "predicate": { "custom_model_data": 11}, "model": "item/clay_ball/11" },
 		{ "predicate": { "custom_model_data": 12}, "model": "item/clay_ball/12" },
 		{ "predicate": { "custom_model_data": 13}, "model": "item/clay_ball/13" },
