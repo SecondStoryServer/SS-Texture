@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/water_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wood_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE112"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/holy_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/dark_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE114"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/no_element.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE115"
+            ]
+        }
+    ]
+}
