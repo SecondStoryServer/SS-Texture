@@ -18,6 +18,14 @@
 		{ "predicate": { "custom_model_data": 15}, "model": "item/wooden_axe/15" },
 		{ "predicate": { "custom_model_data": 16}, "model": "item/wooden_axe/16" },
 		{ "predicate": { "custom_model_data": 17}, "model": "item/wooden_axe/17" },
-		{ "predicate": { "custom_model_data": 18}, "model": "item/wooden_axe/18" }
+		{ "predicate": { "custom_model_data": 18}, "model": "item/wooden_axe/18" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/wooden_axe/21" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/wooden_axe/22" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/wooden_axe/23" },
+		{ "predicate": { "custom_model_data": 24}, "model": "item/wooden_axe/24" },
+		{ "predicate": { "custom_model_data": 25}, "model": "item/wooden_axe/25" },
+		{ "predicate": { "custom_model_data": 26}, "model": "item/wooden_axe/26" },
+		{ "predicate": { "custom_model_data": 27}, "model": "item/wooden_axe/27" },
+		{ "predicate": { "custom_model_data": 28}, "model": "item/wooden_axe/28" }
 	]
 }
